@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+
+# ESP32 / PlatformIO
+.pio/
+.vscode/
+*.elf
+*.bin
+*.map
+
+# KiCad local/temp
+*.kicad_prl
+*.kicad_sch-bak
+*.kicad_pro-bak
+*-backups/
+*.lck
+.history/
+*~
+
+# CAD temporary/backup
+*.FCStd1
+*.FCBak
+*.bak
+*.tmp
+~$*
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log

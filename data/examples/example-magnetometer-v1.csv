@@ -1,0 +1,2 @@
+timestamp_utc,sequence,latitude_deg,longitude_deg,altitude_m,gps_speed_mps,gps_fix,heading_deg,roll_deg,pitch_deg,ref_a_x_uT,ref_a_y_uT,ref_a_z_uT,mag_01_raw,mag_02_raw,mag_03_raw,mag_04_raw,mag_05_raw,mag_06_raw,mag_07_raw,mag_08_raw,mag_09_raw,mag_10_raw,mag_11_raw,mag_12_raw,mag_13_raw,mag_14_raw,mag_15_raw,mag_16_raw,ref_b_x_uT,ref_b_y_uT,ref_b_z_uT,temperature_C,battery_V,quality_flags
+2026-09-24T17:30:00.000Z,1,49.123456,18.456789,312.4,0.82,3,91.4,-1.2,0.8,,,,12345,12347,12342,,,,,,,,,,,,,,,,,,,23.6,4.91,0
