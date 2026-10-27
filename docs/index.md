@@ -1,0 +1,29 @@
+# Magnetometer + Georadar
+
+## Aktuálny cieľ
+Charakterizácia dostupných senzorov a overenie čiastkových zapojení.
+
+## Stav vybavenia
+Overiť a aktualizovať:
+- K49E/AH49E
+- LSM303DLHC
+- ESP32 — presná doska a dostupnosť
+- ADS1256 — dostupnosť
+
+## Dokumentácia
+- [Prehľad projektu](../README.md)
+- [Dátový formát](measurements/data-format.md)
+- [Protokol K49E](measurements/k49e-test-protocol.md)
+- [Protokol LSM303DLHC](measurements/lsm303dlhc-test-protocol.md)
+
+## Aktívne návrhy a merania
+Zatiaľ bez priradených záznamov.
+
+## Otvorené rozhodnutia
+- Presná doska ESP32 a vývojové prostredie.
+- Parametre, ktoré treba zmerať ako prvé.
+- Prvé skúšobné zapojenie.
+- Nástroj a pracovný systém pre mechanický návrh.
+
+## Najbližší krok
+Vybrať prvý experiment a vytvoriť jeho záznam zo šablóny.

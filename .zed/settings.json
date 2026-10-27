@@ -1,0 +1,15 @@
+{
+  "disable_ai": true,
+  "tab_size": 4,
+  "preferred_line_length": 100,
+  "format_on_save": "off",
+  "languages": {
+    "Markdown": {
+      "tab_size": 2,
+      "soft_wrap": "preferred_line_length"
+    },
+    "JSON": {
+      "tab_size": 2
+    }
+  }
+}

@@ -36,3 +36,20 @@ desktop.ini
 
 # Logs
 *.log
+# Lokálny stav Obsidianu
+.obsidian/workspace*.json
+.obsidian/cache/
+
+# Python
+.venv/
+__pycache__/
+.pytest_cache/
+
+# Generované zostavenia
+.pio/
+firmware/esp32/build/
+
+# Lokálny stav KiCadu a zámky
+*.kicad_prl
+*.lck
+~$*
