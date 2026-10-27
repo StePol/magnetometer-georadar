@@ -53,3 +53,8 @@ firmware/esp32/build/
 *.kicad_prl
 *.lck
 ~$*
+
+# Automatické zálohy FreeCAD
+*.FCStd1
+*.FCStd2
+*.FCBak

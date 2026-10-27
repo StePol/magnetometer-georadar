@@ -1,9 +1,15 @@
 # Mechanická konštrukcia
 
 ## Pracovné prostredia
-- SolidWorks: samostatný počítač s Windows.
-- FreeCAD: alternatíva; použitie zatiaľ nerozhodnuté.
-- Verzie programov: doplniť pred prvým návrhom.
+- Hlavný CAD: FreeCAD 1.1.4 na Linuxe, Flatpak.
+- Jednotky: mm, sústava Standard.
+- Hlavné editovateľné súbory: freecad/*.FCStd.
+- SolidWorks: prípadná externá spolupráca.
+- Výmena geometrie: STEP; výkresy: PDF.
+- Verzia FreeCAD: FreeCAD 1.1.4 cez Flatpak
+
+Externé úpravy evidovať ako samostatnú revíziu.
+STEP export nenahrádza pôvodný parametrický model FreeCAD.
 
 ## Ukladanie
 - solidworks/: pôvodné diely a zostavy SolidWorks.
@@ -25,6 +31,5 @@ históriu modelovania.
 - Súbežne neupravovať rovnaký CAD súbor na dvoch počítačoch.
 
 ## Otvorené rozhodnutia
-- Hlavný CAD nástroj pre prvý návrh.
 - Umiestnenie počiatku a smer osí.
 - Výrobná technológia a materiály.
