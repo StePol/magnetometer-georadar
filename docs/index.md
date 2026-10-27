@@ -24,6 +24,8 @@ Zatiaľ bez priradených záznamov.
 - Parametre, ktoré treba zmerať ako prvé.
 - Prvé skúšobné zapojenie.
 - Nástroj a pracovný systém pre mechanický návrh.
+- FreeCAD 1.1.4 na Linuxe: hlavný nástroj pre mechanický návrh.
+- SolidWorks: iba prípadná externá spolupráca cez STEP a PDF.
 
 ## Najbližší krok
 Vybrať prvý experiment a vytvoriť jeho záznam zo šablóny.

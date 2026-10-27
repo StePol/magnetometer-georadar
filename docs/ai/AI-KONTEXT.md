@@ -20,7 +20,8 @@ Jazyk komunikácie a dokumentácie: slovenčina. Identifikátory kódu, názvy d
 - Obsidian: znalostná báza a technický denník.
 - Zed: editor na programovanie, pravdepodobne ESP32.
 - KiCad: schémy a PCB.
-- SolidWorks: pravdepodobný nástroj pre mechaniku.
+- FreeCAD 1.1.4 na Linuxe: hlavný nástroj pre mechanický návrh.
+- SolidWorks: iba prípadná externá spolupráca cez STEP a PDF.
 - Git/GitHub: verzovanie a spoločné úložisko projektu.
 - Presná doska, SDK/framework, OS pre jednotlivé nástroje a verzie programov ešte nie sú určené.
 
