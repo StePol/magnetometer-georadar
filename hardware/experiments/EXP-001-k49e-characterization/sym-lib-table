@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "magnetometer-georadar") (type "KiCad") (uri "${KIPRJMOD}/magnetometer-georadar.kicad_sym") (options "") (descr ""))
+)
