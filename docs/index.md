@@ -11,6 +11,7 @@ Overiť a aktualizovať:
 - ADS1256 — dostupnosť
 
 ## Dokumentácia
+- [Fotodokumentácia vybavenia](equipment/2026-10-28-fotodokumentacia.md)
 - [Prehľad projektu](../README.md)
 - [Dátový formát](measurements/data-format.md)
 - [Protokol K49E](measurements/k49e-test-protocol.md)
