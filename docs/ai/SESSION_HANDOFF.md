@@ -7,7 +7,7 @@ Separate low-cost geophysical magnetometer/georadar project, with GitHub, KiCad,
 
 ## Decisions locked
 - Repository: `StePol/magnetometer-georadar`.
-- Canonical project notes and AI handoff: `docs/AI/` in GitHub.
+- Canonical project notes and AI handoff: `docs/ai/` in GitHub.
 - Start by characterizing one K49E channel.
 - Plan more than seven channels and two reference sensors, but do not freeze the array layout yet.
 - Use an external ADC for serious analog measurements; selection remains open.
